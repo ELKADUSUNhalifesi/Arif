@@ -32,7 +32,7 @@
     </tr>
 </table>
 
-If ALLAH gives permission arif will have async (with promises in that) mode option together with Document-Object-Model class for being able to run as a html and css driver language
+If ALLAH gives permission arif will have async (with promises and built-in intrinsic model-view-controller design paradigm compiler in that) mode option together with Document-Object-Model class for being able to run also as a html and css driver reactive www(666) surfing language
 
 IF ALLAH gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
 
