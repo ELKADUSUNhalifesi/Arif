@@ -32,6 +32,8 @@
     </tr>
 </table>
 
+If ALLAH gives permission arif will have async mode option together with Document-Object-Model for being able to run as a html and css driver language
+
 IF ALLAH gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
 
 ## The Julia Language
