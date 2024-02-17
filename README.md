@@ -32,7 +32,9 @@
     </tr>
 </table>
 
-If ALLAH gives permission arif will have async (with promises and intrinsic auto model-view-controlled mvc design paradigm built-in compiler in that) mode option together with Document-Object-Model class for being able to run also as a html and css driver reactive www(666) surfing language
+If ALLAH gives permission arif will have async (with promises and intrinsic auto model-view-controller design paradigm convertion built-in compiler better than in svelte without bloating syntax like in ruins in svelte5* in that) mode option together with Document-Object-Model class for being able to run also as a html and css driver reactive www(666) surfing language
+
+* If ALLAH gives permission for acheiving reactivity in async mode without bloating syntax like ruins in svelte 5, arif compiler should faciliate recursive search tree functions for detecting caller and callee type variable tokens from semantics of given program text InshALLAH !
 
 IF ALLAH gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
 
