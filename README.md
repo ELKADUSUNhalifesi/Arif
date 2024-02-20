@@ -38,7 +38,7 @@ If ALLAH gives permission arif will have async (with promises and intrinsic auto
 
 IF ALLAH gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
 
-If ALLAH gives permission His servant i will use recursive search tree algorithm on adress pointer edge-node graph for deallocation decisions of garbage collector of arif language for ease-of-use together with smart-pointer support see a discussion here: https://gist.github.com/Manishearth/70856e2f01e18935681c#
+If ALLAH gives permission His servant i will use recursive search tree algorithm on adress pointer edge-node graph for deallocation decisions of garbage collector of arif language in compile-time with an optional compilation flag for ease-of-use in terms of memory management together with smart-pointer support see a discussion here: https://gist.github.com/Manishearth/70856e2f01e18935681c#
 
 https://doc.rust-lang.org/book/ch15-00-smart-pointers.html
 
