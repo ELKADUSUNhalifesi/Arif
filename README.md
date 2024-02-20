@@ -40,6 +40,10 @@ IF ALLAH gives permission tail call optimization is easy to grasp concept if you
 
 If ALLAH gives permission His servant i will use recursive search tree algorithm on adress pointer edge-node graph for deallocation decisions of garbage collector of arif language for ease-of-use together with smart-pointer support see a discussion here: https://gist.github.com/Manishearth/70856e2f01e18935681c#
 
+https://doc.rust-lang.org/book/ch15-00-smart-pointers.html
+
+https://en.wikipedia.org/wiki/Smart_pointer
+
 ## The Julia Language
 
 Julia is a high-level, high-performance dynamic language for technical
