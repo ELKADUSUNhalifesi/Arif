@@ -32,21 +32,21 @@
     </tr>
 </table>
 
-If ALLAH gives permission arif will have async (with promises and intrinsic auto model-view-controller design paradigm convertion built-in compiler better than in svelte without bloating syntax like in ruins in svelte5* in that) mode option together with Document-Object-Model class for being able to run also as a html and css driver reactive www(666) surfing language
+If THE SACRED gives permission moon will have async (with promises and intrinsic auto model-view-controller design paradigm convertion built-in compiler better than in svelte without bloating syntax like in ruins in svelte5* in that) mode option together with Document-Object-Model class for being able to run also as a html and css driver reactive www(666) surfing language
 
-* If ALLAH gives permission for acheiving reactivity in asynchronous mode without bloating syntax like ruins(runes) in svelte 5, arif compiler should faciliate recursive search tree functions for detecting caller and callee type variable tokens from semantics of given elegant syntactic arif program text InshALLAH !
+* If THE SACRED gives permission for acheiving reactivity in asynchronous mode without bloating syntax like ruins(runes) in svelte 5, moon compiler should faciliate recursive search tree functions for detecting caller and callee type variable tokens from semantics of given elegant syntactic moon program text
 
-IF ALLAH gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
+IF 201 gives permission tail call optimization is easy to grasp concept if you read this short article: [https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb](https://medium.com/@JavaScript-World/javascript-recursion-and-tail-call-optimization-944be86bb3bb)
 
-If ALLAH gives permission HIS servant i will use recursive search tree algorithm on adress pointer edge-node graph for deallocation decisions of garbage collector of arif language in compile-time with an optional compilation flag for ease-of-use in terms of memory management together with smart-pointer support see a discussion here: https://gist.github.com/Manishearth/70856e2f01e18935681c#
+If THE SACRED gives permission Successoree I will use recursive search tree algorithm on adress pointer edge-node graph for deallocation decisions of garbage collector of moon language in compile-time with an optional compilation flag for ease-of-use in terms of memory management together with smart-pointer support see a discussion here: https://gist.github.com/Manishearth/70856e2f01e18935681c#
 
 https://doc.rust-lang.org/book/ch15-00-smart-pointers.html
 
 https://en.wikipedia.org/wiki/Smart_pointer
 
-If ALLAH gives permission HIS servant i will add multi-paradigm functional-declerative-imperative language syntax support by exampling from lisp(owl-lisp) syntax - prolog with unknown aware logic gates with built-in exception handling mechanism for unknown valued results - julia like auto intrinsic typed explicit typeless syntax with smart pointers of rust and support for cross mixed syntax support between those paradigms by model of abstract syntax tree that encompassing all elements of functional-declerative-imperative paradigm abstractions by layers by of layers...
+If THE SACRED gives permission Successoree I will add multi-paradigm functional-declerative-imperative language syntax support by exampling from lisp(owl-lisp) syntax - prolog with unknown aware logic gates with built-in exception handling mechanism for unknown valued results - julia like auto intrinsic typed explicit typeless syntax with smart pointers of rust and support for cross mixed syntax support between those paradigms by model of abstract syntax tree that encompassing all elements of functional-declerative-imperative paradigm abstractions by layers by of layers...
 
-If ALLAH gives permission HIS Servant i will make arif language more encompasser in terms of language paradigms than haskell: https://stackoverflow.com/a/43426291/2059149
+If THE SACRED gives permission Successoree I Rahman will make moon language more encompasser in terms of language paradigms than haskell: https://stackoverflow.com/a/43426291/2059149
 
 ## The Julia Language
 
